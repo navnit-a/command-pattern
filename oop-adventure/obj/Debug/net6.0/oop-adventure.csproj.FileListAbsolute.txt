@@ -1,0 +1,15 @@
+C:\dev\oop-adventure\oop-adventure\bin\Debug\net6.0\oop-adventure.exe
+C:\dev\oop-adventure\oop-adventure\bin\Debug\net6.0\oop-adventure.deps.json
+C:\dev\oop-adventure\oop-adventure\bin\Debug\net6.0\oop-adventure.runtimeconfig.json
+C:\dev\oop-adventure\oop-adventure\bin\Debug\net6.0\oop-adventure.dll
+C:\dev\oop-adventure\oop-adventure\bin\Debug\net6.0\oop-adventure.pdb
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.csproj.AssemblyReference.cache
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.AssemblyInfoInputs.cache
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.AssemblyInfo.cs
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.csproj.CoreCompileInputs.cache
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.dll
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\refint\oop-adventure.dll
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.pdb
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\oop-adventure.genruntimeconfig.cache
+C:\dev\oop-adventure\oop-adventure\obj\Debug\net6.0\ref\oop-adventure.dll
